@@ -1,0 +1,14 @@
+C:\Users\48600\Desktop\Piotr_Białas_Zaliczenie_68417\YoutubePlayer\YoutubePlayer\bin\Debug\YoutubePlayer.exe.config
+C:\Users\48600\Desktop\Piotr_Białas_Zaliczenie_68417\YoutubePlayer\YoutubePlayer\bin\Debug\YoutubePlayer.exe
+C:\Users\48600\Desktop\Piotr_Białas_Zaliczenie_68417\YoutubePlayer\YoutubePlayer\bin\Debug\YoutubePlayer.pdb
+C:\Users\48600\Desktop\Piotr_Białas_Zaliczenie_68417\YoutubePlayer\YoutubePlayer\obj\Debug\YoutubePlayer.csproj.AssemblyReference.cache
+C:\Users\48600\Desktop\Piotr_Białas_Zaliczenie_68417\YoutubePlayer\YoutubePlayer\obj\Debug\YoutubePlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\48600\Desktop\Piotr_Białas_Zaliczenie_68417\YoutubePlayer\YoutubePlayer\obj\Debug\YoutubePlayer.Form1.resources
+C:\Users\48600\Desktop\Piotr_Białas_Zaliczenie_68417\YoutubePlayer\YoutubePlayer\obj\Debug\YoutubePlayer.Properties.Resources.resources
+C:\Users\48600\Desktop\Piotr_Białas_Zaliczenie_68417\YoutubePlayer\YoutubePlayer\obj\Debug\YoutubePlayer.csproj.GenerateResource.cache
+C:\Users\48600\Desktop\Piotr_Białas_Zaliczenie_68417\YoutubePlayer\YoutubePlayer\obj\Debug\YoutubePlayer.csproj.CoreCompileInputs.cache
+C:\Users\48600\Desktop\Piotr_Białas_Zaliczenie_68417\YoutubePlayer\YoutubePlayer\obj\Debug\YoutubePlayer.exe
+C:\Users\48600\Desktop\Piotr_Białas_Zaliczenie_68417\YoutubePlayer\YoutubePlayer\obj\Debug\YoutubePlayer.pdb
+C:\Users\48600\Desktop\Piotr_Białas_Zaliczenie_68417\YoutubePlayer\YoutubePlayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\48600\Desktop\Piotr_Białas_Zaliczenie_68417\YoutubePlayer\YoutubePlayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\48600\Desktop\Piotr_Białas_Zaliczenie_68417\YoutubePlayer\YoutubePlayer\obj\Debug\YoutubePlayer.csproj.CopyComplete
