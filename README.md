@@ -28,6 +28,14 @@
 1. Open the project in Visual Studio.
 2. Build and run the project.
 
+## Client Side Functionality
+![Client](https://github.com/BialasPiotr/YoutubePlayer/assets/96840701/3e6d4743-3fc0-4550-a9e6-794de03dee16)
+
+
+## Server Side Functionality
+![server](https://github.com/BialasPiotr/YoutubePlayer/assets/96840701/db169eeb-3b62-4a7d-a787-16ae252478a3)
+
+
 ## License
 This project is released under the [MIT License](LICENSE).
 
